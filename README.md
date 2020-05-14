@@ -1,0 +1,2 @@
+# MyFirst
+Studying Git
